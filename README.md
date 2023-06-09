@@ -1,8 +1,8 @@
 # Lunch-spot
 
-![screenshot](./images/readme.jpeg)
-
 Boca Code Week 6 Lunch Spot: app helps users discover nearby restaurants for their lunch breaks. It provides a convenient way to search for restaurants and includes a randomize button for automatically selecting a restaurant.
+
+![screenshot](./images/readme.jpeg)
 
 ## Features
 
